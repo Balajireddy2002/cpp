@@ -6,7 +6,7 @@ class A
 	public:
 		A()
 		{
-			cout<<"constuctor of class A invoked"<<endl;
+			cout<<"constuctor of colass A invoked"<<endl;
 		}
 		~A()
 		{
